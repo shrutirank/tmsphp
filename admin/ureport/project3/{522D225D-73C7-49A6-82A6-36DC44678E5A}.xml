@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2022/03/30" author="e.World Technology Ltd.">
+  <project id="{522D225D-73C7-49A6-82A6-36DC44678E5A}" file="" name="project3" product="PHPReportMaker" version="12.0" datetime="2022/03/30 14:04:36" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="admin" name="admin" caption="admin" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="area" name="area" caption="area" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="booking" name="booking" caption="booking" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="booking_report" name="booking report" caption="booking report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="bookings" name="bookings" caption="bookings" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="city" name="city" caption="city" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="package_booking" name="package booking" caption="package booking" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="package_report" name="package report" caption="package report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report" name="report" caption="report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="report1" name="report1" caption="report 1" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="review" name="review" caption="review" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="room" name="room" caption="room" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="state" name="state" caption="state" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblbooking" name="tblbooking" caption="tblbooking" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblcustomizedpackage" name="tblcustomizedpackage" caption="tblcustomizedpackage" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblenquiry" name="tblenquiry" caption="tblenquiry" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblhotel" name="tblhotel" caption="tblhotel" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblissues" name="tblissues" caption="tblissues" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tbloffer" name="tbloffer" caption="tbloffer" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblpages" name="tblpages" caption="tblpages" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tbltourpackages" name="tbltourpackages" caption="tbltourpackages" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblusers" name="tblusers" caption="tblusers" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tblvehicel" name="tblvehicel" caption="tblvehicel" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="user_report" name="user report" caption="user report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view1" name="view1" caption="view 1" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view2" name="view2" caption="view 2" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view3" name="view3" caption="view 3" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view4" name="view4" caption="view 4" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view5" name="view5" caption="view 5" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="zz" name="zz" caption="zz" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="view6" name="view6" caption="view 6" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="users_report" name="users report" caption="users report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>

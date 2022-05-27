@@ -1,0 +1,172 @@
+/* LISTS */
+
+/*
+A default margin-top/bottom for lists is NOT set in config.php - (standard browsers give outermost list a top and bottom margin).
+[mPDF default CSS set in configuration only works on basic elements, cannot do selectors such as "ol ol"]
+Need to add the following to do this, but also prevent margins in nested lists as per default HTML in most browsers:
+*/
+
+/*ul, ol {
+	margin-top: 0.83em;
+	margin-bottom: 0.83em;
+}
+
+ul ul, ul ol, ol ul, ol ol {
+	margin-top: 0;
+	margin-bottom: 0;
+}*/
+
+/* INDEXES */
+/*div.mpdf_index_main {
+	font-family: sans-serif;
+	line-height: normal;
+}
+
+div.mpdf_index_entry {
+	line-height: normal;
+	text-indent: -1.5em;
+}
+
+div.mpdf_index_letter {
+	font-family: sans-serif;
+	font-size: 1.8em;
+	font-weight: bold;
+	line-height: normal;
+	text-transform: uppercase;
+	page-break-after: avoid;
+	margin-top: 0.3em;
+	margin-collapse: collapse;
+}
+
+a.mpdf_index_link {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+div.mpdf_toc {
+	font-family: sans-serif;
+	line-height: normal;
+}
+
+a.mpdf_toc_a {
+	text-decoration: none;
+	color: black;
+}
+
+div.mpdf_toc_level_0 {
+	line-height: 1.5;
+	margin-left: 0;
+	padding-right: 0em;
+}
+
+span.mpdf_toc_t_level_0 {
+	font-weight: bold;
+}
+
+span.mpdf_toc_p_level_0 {
+}
+
+div.mpdf_toc_level_1 {
+	margin-left: 2em;
+	text-indent: -2em;
+	padding-right: 0em;
+}
+
+span.mpdf_toc_t_level_1 {
+	font-style: italic;
+	font-weight: bold;
+}
+
+span.mpdf_toc_p_level_1 {
+}
+
+div.mpdf_toc_level_2 {
+	margin-left: 4em;
+	text-indent: -2em;
+	padding-right: 0em;
+}
+
+span.mpdf_toc_t_level_2 {
+}
+
+span.mpdf_toc_p_level_2 {
+}*/
+
+/*Custom CSS*/
+
+.inn_funeral_bottom {
+    margin: auto;
+    padding: 50px;
+}
+h5 {
+	color: red;
+}
+
+.inn_top_row {
+    padding: 0 0 50px 0;
+    border-bottom: 1px solid #000;
+
+}
+.left_side {
+    float: left;
+    width: 50%;
+}
+.right_side {
+    float: right;
+    width: 50%;
+}
+.first_row {
+	height: 150px;
+	width: 210px;
+	background-image: url(https://eqstaging.com/dj/WinmHarmony/wp-content/uploads/2021/05/logo.png);
+	background-size: contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+.scnd_row h5 {
+    font-size: 15px;
+    color: #000000;
+}
+.third_row h5 {
+    font-size: 10px;
+    margin: 1px;
+    color: #000;
+}
+.forth_row {
+    margin-top: 40px;
+}
+.forth_left {
+    display: inline-block;
+    width: 49%;
+}
+img.pdf_fn_img {
+    height: 280px;
+    width: auto;
+}
+.bottom_row h5 {
+    color: #fff;
+    font-size: 15px;
+}
+h5.funeral_prsn_name {
+    font-size: 27px;
+}
+.bottom_row {
+    padding: 25px;
+    background-color: #232148;
+}
+
+.inn_funeral .inn_funeral_bottom .inn_top_row .left_side .forth_row .forth_left {
+    display: inline-block;
+    width: 49%;
+}
+.inn_funeral .inn_funeral_bottom .inn_bottom_row .inn_bottom_sub {
+    padding: 40px;
+    background-color: #d4d3e3;
+    border-radius: 4px;
+}
+
+.inn_funeral .inn_funeral_bottom .inn_top_row .left_side .forth_row {
+   display: flex;
+}
+
